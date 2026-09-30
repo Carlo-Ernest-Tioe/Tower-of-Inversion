@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Joko","nickname":"","note":"<Element:Water>","profile":""},
+{"id":2,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":2,"equips":[2,1,2,3,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tarno","nickname":"","note":"<Element:Earth>","profile":""},
+{"id":3,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rudi","nickname":"","note":"<Element:Fire>","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Banyu","nickname":"","note":"<Element:Wind>","profile":""},
+{"id":5,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":5,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tasya","nickname":"","note":"<Element:Neutral>","profile":""}
+]

@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Permukaan","order":1,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":2,"expanded":false,"name":"Balai Hukum","order":2,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":3,"expanded":false,"name":"Poros Jatuh","order":3,"parentId":0,"scrollX":811,"scrollY":923},
+{"id":4,"expanded":true,"name":"Lantai 10 - Save Zone","order":4,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":5,"expanded":false,"name":"Lantai 10 - Map Explore","order":6,"parentId":0,"scrollX":811,"scrollY":743},
+{"id":6,"expanded":true,"name":"Lantai 10 - Ruang Boss","order":7,"parentId":0,"scrollX":819,"scrollY":457},
+{"id":7,"expanded":true,"name":"Lantai 9 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":8,"expanded":true,"name":"Lantai 8 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":9,"expanded":true,"name":"Lantai 7 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":10,"expanded":true,"name":"Lantai 6 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":11,"expanded":true,"name":"Lantai 5 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":12,"expanded":true,"name":"Lantai 4 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":13,"expanded":true,"name":"Lantai 3 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":14,"expanded":true,"name":"Lantai 2 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457},
+{"id":15,"expanded":true,"name":"Lantai 1 - Save Zone","order":5,"parentId":4,"scrollX":819,"scrollY":457}
+]
